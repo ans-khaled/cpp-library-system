@@ -40,14 +40,6 @@ Designed as a learning project to strengthen understanding of:
 
 ---
 
-## 💻 How to Use
-
-### ▶️ Compile and Run (using g++)
-
-```bash
-g++ oop.cpp -o library
-./library
-
 ## 🧠 Possible Improvements
 
 - 🧾 Save & load books from a file
@@ -64,3 +56,12 @@ Anas Khaled
 🔗 www.linkedin.com/in/anas-khaled-263b022ab
 🐙 [GitHub](https://github.com/ans-khaled)
 
+---
+
+## 💻 How to Use
+
+### ▶️ Compile and Run (using g++)
+
+```bash
+g++ oop.cpp -o library
+./library
