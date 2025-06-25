@@ -47,3 +47,20 @@ Designed as a learning project to strengthen understanding of:
 ```bash
 g++ oop.cpp -o library
 ./library
+
+## 🧠 Possible Improvements
+
+- 🧾 Save & load books from a file
+- 🗂 Add book categories or genres
+- 🌐 GUI version using Qt or SFML
+- 🧑‍🤝‍🧑 Add user login system with roles
+- 📊 Track borrowed history or statistics
+
+## 👨‍💻 Author
+
+Anas Khaled 
+🎓 Computer Science Student at Thebes Academy
+💻 Front-End Developer & Programming Enthusiast
+🔗 www.linkedin.com/in/anas-khaled-263b022ab
+🐙 [GitHub](https://github.com/ans-khaled)
+
