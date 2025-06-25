@@ -52,7 +52,7 @@ Designed as a learning project to strengthen understanding of:
 
 Anas Khaled 
 🎓 Computer Science Student at Thebes Academy
-💻 Front-End Developer & Programming Enthusiast
+💻 Software Engineer & Programming Enthusiast
 🔗 www.linkedin.com/in/anas-khaled-263b022ab
 🐙 [GitHub](https://github.com/ans-khaled)
 
