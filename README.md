@@ -54,7 +54,6 @@ Anas Khaled
 🎓 Computer Science Student at Thebes Academy
 💻 Software Engineer & Programming Enthusiast
 🔗 www.linkedin.com/in/anas-khaled-263b022ab
-🐙 [GitHub](https://github.com/ans-khaled)
 
 ---
 
